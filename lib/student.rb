@@ -6,6 +6,7 @@ class Student
   #  with DB[:conn]
   
   def initialize(id=nil, name, grade)
+  end
 
 
 end
