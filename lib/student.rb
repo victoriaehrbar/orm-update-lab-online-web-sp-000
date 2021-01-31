@@ -54,7 +54,7 @@ class Student
     id = array_row[0]
     name = array_row[1]
     grade = array_row[2]
-    self.new
+    self.new(id, name, grade)
 
 
 end
