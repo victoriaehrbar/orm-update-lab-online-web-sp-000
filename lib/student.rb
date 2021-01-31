@@ -55,6 +55,7 @@ class Student
     name = array_row[1]
     grade = array_row[2]
     self.new(id, name, grade)
+  end
 
 
 end
