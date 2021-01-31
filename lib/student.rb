@@ -50,7 +50,8 @@ class Student
     student.save
   end
   
-  def self.new_from_db(array)
+  def self.new_from_db(array_row)
+    
 
 
 end
